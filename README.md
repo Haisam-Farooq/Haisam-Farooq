@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Haisam-Farooq
-- 👀 I’m interested in developing websites
-- 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate with Software houses so that I can get more skills.
-- 📫 I live in Rahim Yar Khan,Pakistan.
+# Haisam Farooq
 
-<!---
-Haisam-Farooq/Haisam-Farooq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Founder of [SKYSTACK Solutions](https://skystackpk.com/). We build and maintain custom web software for small and mid-size businesses.
+
+## What we do
+
+Laravel applications and APIs. WordPress and WooCommerce sites, migrations and maintenance. CRM and ERP systems, dashboards and reporting. Integrations with Stripe, WhatsApp, Zapier and other tools.
+
+## Links
+
+Website: https://skystackpk.com/
+
+Blog: https://skystackpk.com/blog
+
+Client reviews: https://skystackpk.com/reviews
+
+Fiverr: https://www.fiverr.com/abdhaisam
+
+Contact: support@skystackpk.com
+
+Based in Pakistan, working with clients remotely.
